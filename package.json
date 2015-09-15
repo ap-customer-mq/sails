@@ -70,7 +70,7 @@
     "sails-build-dictionary": "~0.10.1",
     "sails-disk": "~0.10.7",
     "sails-generate": "~0.12.3",
-    "sails-hook-sockets": "AnyPresence/sails-hook-sockets#0.11.24c",
+    "sails-hook-sockets": "AnyPresence/sails-hook-sockets#0.11.24d",
     "sails-stringfile": "~0.3.2",
     "sails-util": "~0.10.6",
     "semver": "~4.3.3",
